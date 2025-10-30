@@ -1,4 +1,4 @@
-/*Character Triangle
+/*Character Pyramid
     A
    ABA
   ABCBA
@@ -27,4 +27,5 @@ int main()
 
         cout<<"\n";
     }
+
 }
