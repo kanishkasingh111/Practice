@@ -1,4 +1,4 @@
-/*Character Triangle
+/*Star Pyramid
     *
    ***
   *****
