@@ -1,4 +1,4 @@
-/* Right Arrow j Pattern
+/* Right Arrow Star Pattern
 *****
   ****
     ***
@@ -43,4 +43,5 @@ int main()
         }
         cout << "\n";
     }
+
 }
