@@ -15,7 +15,8 @@ int mysqrt(int x){
             ans=mid;
             break;
         }
-        else if(mid*mid<x){     //mid<x/mid
+        else if(mid*mid<x)
+        {   //mid<x/mid
             ans=mid;
             start=mid+1;
         }
