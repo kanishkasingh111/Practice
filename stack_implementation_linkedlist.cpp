@@ -10,7 +10,6 @@ struct node* top=0;
 
 void push(int x){
     struct node* newnode;
-    // newnode=(struct node)new(sizeof(struct node));
     newnode = new node;
     newnode->data=x;
     newnode->link=top;
@@ -58,4 +57,5 @@ int main(){
     cout<<"\nAfter Popping : ";
     pop();
     display();
+
 }
